@@ -47,9 +47,9 @@ and many more...**
 In addition, my programming prowess extends to languages such as:
 **🐍 Python
 🐚 Bash (Shell Scripting)
-💻 PHP
 🛠️ JavaScript
 💼 PowerShell
+💻 PHP
 🌐 Web Application Development Technologies**
 
 Furthermore, I have honed my skills in Database Management, specializing in:
