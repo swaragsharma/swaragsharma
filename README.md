@@ -22,13 +22,21 @@ Let's turn the tide on cyber threats together. With me at your side, your organi
 
 Armed with a diverse skill set and a wealth of experience across multiple domains of cybersecurity, I am equipped to tackle any challenge that comes my way. My arsenal boasts proficiency in a wide array of essential skills, including:
 **Vulnerability Assessment:** Identifying weaknesses before they're exploited.
+
 **Penetration Testing:** Delving deep to uncover vulnerabilities and simulate real-world attacks.
+
 **Web Application Security:** Building digital fortresses to defend against online threats.
+
 **Cyber Forensics:** Investigating digital crime scenes to uncover the truth.
+
 **Network Security:** Securing the highways of digital communication to prevent unauthorized access.
+
 **Cryptography:** Safeguarding data with the power of encryption.
+
 **Shell Scripting:** Crafting custom solutions to automate and enhance security measures.
+
 **Secure Coding:** Implementing best practices to fortify software against vulnerabilities.
+
 **Bug Bounty Programs:** Hunting down vulnerabilities and earning recognition for securing digital ecosystems.
 
 **🖥️ Technical Proficiency 💡**
