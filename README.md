@@ -21,10 +21,8 @@ Let's turn the tide on cyber threats together. With me at your side, your organi
 **🛡️ Cybersecurity Expertise 🚀**
 
 Armed with a diverse skill set and a wealth of experience across multiple domains of cybersecurity, I am equipped to tackle any challenge that comes my way. My arsenal boasts proficiency in a wide array of essential skills, including:
-**Vulnerability Assessment:** Identifying weaknesses before they're exploited.
-
-**Penetration Testing:** Delving deep to uncover vulnerabilities and simulate real-world attacks.
-
+**Vulnerability Assessment:** Identifying weaknesses before they're exploited. 
+**Penetration Testing:** Delving deep to uncover vulnerabilities and simulate real-world attacks. 
 **Web Application Security:** Building digital fortresses to defend against online threats.
 
 **Cyber Forensics:** Investigating digital crime scenes to uncover the truth.
