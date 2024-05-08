@@ -17,3 +17,9 @@ Beyond the realm of defense, I'm your ally in navigating the intricate landscape
 **🌐 Transforming Threats into Opportunities 🌐**
 
 Let's turn the tide on cyber threats together. With me at your side, your organization isn't just protected—it's empowered to thrive amidst uncertainty. Together, we'll leverage a comprehensive toolkit of security strategies and technologies to propel your mission forward and secure a brighter, safer digital future.
+
+**🔑 Skills & Expertise 🔧**
+
+With a diverse skill set and expertise in various domains of cybersecurity. My key skills include proficiency in **_Vulnerability Assessment, Penetration Testing, Web Application Security, Cyber Forensics, Network Security, Cryptography, Shell Scripting, Secure Coding, and Bug Bounty programs._**
+
+In terms of technical skills, I am adept at utilizing a wide range of security operations tools such as _🔍 Wireshark, 🌐 Nmap, 🚨 Snort, 💼 Splunk, 🕵️‍♂️ Nessus, 🛠️ Burp Suite, 🔐 Metasploit, 🗺️ SQLMap, 🛡️ Acunetix, 🛡️ Tenable.io, and 🛡️ OpenVAS._ Additionally, I have strong programming skills in languages including _🐍 Python, 🐚 Bash (Shell Scripting), 💻 PHP, 🌐 JavaScript, and 💼 PowerShell_. Moreover, I have experience in Database Management, particularly with _🗄️ MySQL and 🍃 MongoDB_. My comprehensive skill set allows me to effectively address cybersecurity challenges and ensure the safety and security of digital assets.
