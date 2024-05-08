@@ -30,9 +30,20 @@ When it comes to technical skills, I wield a versatile toolkit, harnessing the p
 🛠️ Burp Suite
 🔐 Metasploit
 🗺️ SQLMap
+🌊 Aircrack-ng
 🛡️ Acunetix
+🎯 Wireshark
+🛠️ Hydra
+🕵️‍♂️ Ghidra
+🛡️ Volatility
+🔑 Mimikatz
+🔓 Hashcat
 🛡️ Tenable.io
-🛡️ OpenVAS**
+🕸️ OWASP ZAP
+🕵️‍♂️ Nikto
+🔑 John the Ripper
+🛡️ OpenVAS 
+and many more...**
 
 In addition, my programming prowess extends to languages such as:
 **🐍 Python
