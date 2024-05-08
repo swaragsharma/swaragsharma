@@ -14,10 +14,6 @@ Armed with an arsenal of programming languages and security tools, I craft robus
 
 Beyond the realm of defense, I'm your ally in navigating the intricate landscape of cyber forensics, guiding you through the aftermath of security incidents with poise and precision. With a keen eye for detail and a commitment to excellence, I unravel digital mysteries, trace elusive adversaries, and help you emerge stronger from adversity.
 
-**🌐 Transforming Threats into Opportunities 🌐**
-
-Let's turn the tide on cyber threats together. With me at your side, your organization isn't just protected—it's empowered to thrive amidst uncertainty. Together, we'll transform challenges into opportunities, leveraging the dynamic landscape of cybersecurity to propel your mission forward and secure a brighter, safer digital future.
-
 **🛡️ Cybersecurity Expertise 🚀**
 
 Armed with a diverse skill set and a wealth of experience across multiple domains of cybersecurity, I am equipped to tackle any challenge that comes my way. My arsenal boasts proficiency in a wide array of essential skills, including:
@@ -50,3 +46,7 @@ Furthermore, I have honed my skills in Database Management, specializing in:
 🍃 MongoDB**
 
 This comprehensive skill set empowers me to effectively tackle cybersecurity challenges and safeguard digital assets with confidence.
+
+**🌐 Transforming Threats into Opportunities 🌐**
+
+Let's turn the tide on cyber threats together. With me at your side, your organization isn't just protected—it's empowered to thrive amidst uncertainty. Together, we'll transform challenges into opportunities, leveraging the dynamic landscape of cybersecurity to propel your mission forward and secure a brighter, safer digital future.
