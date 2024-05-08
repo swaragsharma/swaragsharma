@@ -22,7 +22,7 @@ Armed with a diverse skill set and a wealth of experience across multiple domain
 **🖥️ Technical Proficiency 💡**
 
 When it comes to technical skills, I wield a versatile toolkit, harnessing the power of cutting-edge security operations tools like:
-**🔍 Wireshark
+**🎯 Wireshark
 🌐 Nmap
 🚨 Snort
 💼 Splunk
@@ -32,11 +32,10 @@ When it comes to technical skills, I wield a versatile toolkit, harnessing the p
 🗺️ SQLMap
 🌊 Aircrack-ng
 🛡️ Acunetix
-🎯 Wireshark
 🛠️ Hydra
 🕵️‍♂️ Ghidra
 🛡️ Volatility
-🔑 Mimikatz
+🔍 Mimikatz
 🔓 Hashcat
 🛡️ Tenable.io
 🕸️ OWASP ZAP
