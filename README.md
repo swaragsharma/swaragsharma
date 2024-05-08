@@ -21,8 +21,7 @@ Armed with a diverse skill set and a wealth of experience across multiple domain
 
 **🖥️ Technical Proficiency 💡**
 
-When it comes to technical skills, I wield a versatile toolkit, harnessing the power of cutting-edge security operations tools like:
-
+When it comes to technical skills, I wield a versatile toolkit, harnessing the power of cutting-edge security operations tools like:<br />
 **🎯 Wireshark
 🌐 Nmap
 🚨 Snort
@@ -45,8 +44,7 @@ When it comes to technical skills, I wield a versatile toolkit, harnessing the p
 🛡️ OpenVAS 
 and many more...**
 
-In addition, my programming prowess extends to languages such as:
-
+In addition, my programming prowess extends to languages such as:<br />
 **🐍 Python
 🐚 Bash (Shell Scripting)
 🛠️ JavaScript
@@ -54,8 +52,7 @@ In addition, my programming prowess extends to languages such as:
 💻 PHP
 🌐 Web Application Development Technologies**
 
-Furthermore, I have honed my skills in Database Management, specializing in:
-
+Furthermore, I have honed my skills in Database Management, specializing in:<br />
 **🗄️ MySQL
 🍃 MongoDB**
 
